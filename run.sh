@@ -1,4 +1,5 @@
 echo "Hello from run.sh"
 echo "this is being run from a Harness pipeline"
 echo "The pipeline worked!"
-echo "Its good to tal!"
+echo "Its good to talk!"
+echo "Updating again so repo is talking"
